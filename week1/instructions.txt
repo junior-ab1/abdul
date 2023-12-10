@@ -1,0 +1,9 @@
+>>>DAY1<<<
+-how to create a file and folder
+-how to create a variable
+-some data types in python(string,float,integer)
+
+    >>>DAY2<<<
+-doing caculation with python
+-multiplication(*), additon(+) , subtraction(-) and division(/)
+-converting strings to integers

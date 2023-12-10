@@ -1,0 +1,2 @@
+create a variable and name it cities and assign it to ten cities in Ghana
+create another variable and name it regions and assign it to the regions in Ghana
